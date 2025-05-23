@@ -1,0 +1,26 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     dungeon_generator
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initialize_dungeon, symObjAddr: 0x0, symBinAddr: 0x1000029F0, symSize: 0x19C }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _room_count, symObjAddr: 0x3E24, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5D, offset: 0x5D, size: 0x8, addend: 0x0, symName: _get_dungeon_file_path, symObjAddr: 0xA44, symBinAddr: 0x100003434, symSize: 0x104 }
+  - { offsetInCU: 0x82, offset: 0x82, size: 0x8, addend: 0x0, symName: _get_dungeon_file_path.path, symObjAddr: 0x3E28, symBinAddr: 0x100008DCC, symSize: 0x0 }
+  - { offsetInCU: 0xCD, offset: 0xCD, size: 0x8, addend: 0x0, symName: _dungeon, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0xF4, offset: 0xF4, size: 0x8, addend: 0x0, symName: _rooms, symBinAddr: 0x100008D2C, symSize: 0x0 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: _pc_x, symBinAddr: 0x100008D24, symSize: 0x0 }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: _pc_y, symBinAddr: 0x100008D28, symSize: 0x0 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: _hardness, symBinAddr: 0x100008694, symSize: 0x0 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: _initialize_dungeon, symObjAddr: 0x0, symBinAddr: 0x1000029F0, symSize: 0x19C }
+  - { offsetInCU: 0x229, offset: 0x229, size: 0x8, addend: 0x0, symName: _room_cover_size, symObjAddr: 0x19C, symBinAddr: 0x100002B8C, symSize: 0x134 }
+  - { offsetInCU: 0x2B3, offset: 0x2B3, size: 0x8, addend: 0x0, symName: _place_room, symObjAddr: 0x2D0, symBinAddr: 0x100002CC0, symSize: 0x128 }
+  - { offsetInCU: 0x331, offset: 0x331, size: 0x8, addend: 0x0, symName: _generate_rooms, symObjAddr: 0x3F8, symBinAddr: 0x100002DE8, symSize: 0x19C }
+  - { offsetInCU: 0x39B, offset: 0x39B, size: 0x8, addend: 0x0, symName: _connect_rooms, symObjAddr: 0x594, symBinAddr: 0x100002F84, symSize: 0x238 }
+  - { offsetInCU: 0x413, offset: 0x413, size: 0x8, addend: 0x0, symName: _place_stairs, symObjAddr: 0x7CC, symBinAddr: 0x1000031BC, symSize: 0x1D4 }
+  - { offsetInCU: 0x47D, offset: 0x47D, size: 0x8, addend: 0x0, symName: _print_dungeon, symObjAddr: 0x9A0, symBinAddr: 0x100003390, symSize: 0xA4 }
+  - { offsetInCU: 0x4CB, offset: 0x4CB, size: 0x8, addend: 0x0, symName: _save_dungeon, symObjAddr: 0xB48, symBinAddr: 0x100003538, symSize: 0x210 }
+  - { offsetInCU: 0x56D, offset: 0x56D, size: 0x8, addend: 0x0, symName: __OSSwapInt32, symObjAddr: 0xD58, symBinAddr: 0x100003748, symSize: 0x20 }
+  - { offsetInCU: 0x595, offset: 0x595, size: 0x8, addend: 0x0, symName: __OSSwapInt16, symObjAddr: 0xD78, symBinAddr: 0x100003768, symSize: 0x24 }
+  - { offsetInCU: 0x5BD, offset: 0x5BD, size: 0x8, addend: 0x0, symName: _load_dungeon, symObjAddr: 0xD9C, symBinAddr: 0x10000378C, symSize: 0x494 }
+  - { offsetInCU: 0x66D, offset: 0x66D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1230, symBinAddr: 0x100003C20, symSize: 0x184 }
+...
