@@ -4,3 +4,5 @@ COMS 327: Assignment Week 6
 This project is a roguelike dungeon game implemented in C++ with ncurses for rendering. Features include pathfinding, fog of war, and interactive gameplay.
 
 my f key was being weird, but it works now!! so happyyyy. 
+
+I hate my readme file format.
