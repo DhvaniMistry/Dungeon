@@ -1,0 +1,5 @@
+# Dungeon Pathfinding (rlg327)
+
+This project implements a dungeon-based pathfinding game.  
+It includes features for handling tunneling and non-tunneling monsters that navigate toward the player.  
+Compile the program using `make` and run it with `./rlg327`.  
