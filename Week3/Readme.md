@@ -63,7 +63,8 @@ Example snippet:
 ### Compilation
 
 ```bash
-
+make
+./dungeon_generator
 ```
 
 Note: Make sure to link all relevant source files, including any custom heap/priority queue code.
@@ -71,11 +72,6 @@ Note: Make sure to link all relevant source files, including any custom heap/pri
 ---
 
 ### Usage
-
-```bash
-make
-./dungeon_generator
-```
 
 Upon execution, the program will:
 
