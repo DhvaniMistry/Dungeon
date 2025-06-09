@@ -1,0 +1,13 @@
+AssignMent 10: Choose Your Own
+
+I love playing TicTacToe and I have hence created a simple TicTacToe Game
+
+Features: 
+Mode 1: Human Vs Human
+Mode 2: Human Vs Computer
+
+key : "h" for help to see which key corresponds to which area
+
+Build Information : I have a make file: 
+Use : make
+Run : ./tictactoe

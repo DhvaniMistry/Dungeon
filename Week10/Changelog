@@ -1,0 +1,32 @@
+Version 1.0.0 - April 25, 2025
+- Created a simple multiplayer tictactoe with terminal inputs
+
+April 27, 2025
+- Added MOde 2 for Human Vs computer
+
+April 30, 2025
+- Used Ncureses for easier playing instead of giving terminal inputs
+- Added Colors to X and O
+- Dialog box for key help
+
+May 1, 2025
+- Added Changelog
+- Added Readme
+
+Features
+- Implemented a complete Tic-Tac-Toe game with ncurses interface
+- Added two game modes: Human vs Human and Human vs Computer
+- Implemented colored game pieces (Yellow X, Magenta O)
+- Added help dialog box showing key mappings (W,E,R,S,D,F,X,C,V)
+- Implemented immediate move execution on key press (no Enter needed)
+- Added help key ('h') to display help dialog during gameplay
+- Computer player with win detection, blocking, and random moves
+- Game status messages for wins and ties
+- Play again functionality
+
+Technical Details
+- Used ncurses library for terminal UI
+- Implemented OOP design with Board, Player (Human/Computer), and Game classes
+- Added color support with defined color pairs
+- Created dialog box drawing functionality
+- Implemented proper input validation and error messaging
