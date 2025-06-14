@@ -1,0 +1,22 @@
+Started last Thursday; April 10/25
+ -- can't stop playing game 
+ -- understood the instrutor's code and the assignmnet 8 requirements
+
+
+## April 12/2025
+- Wrote .h and .cpp file for objects
+- Modified rlg327, so it doesnot print the the list.
+- Modified the descriptions so it knows to find the description file in its respective folder rather than HOME
+
+## April 13/2025
+- Added colors to make the monsters look PREETYYYYY using ncurses lib.
+- Modified dungeon files to reflect the changes
+
+## April 14/2025
+- After a few plays my pc would go invisible. Took me 3 hours to figure out the solution.
+
+## April 16.2025
+- Wrote Changelog and readme
+- Changed the parse_Descriptions in description.cpp to fetch the file from HOME. 
+- Created tar.gz with proper naming semantics and SUBMITTED 
+- Continued playing the game 
