@@ -20,15 +20,8 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 
 ---
 
-### Gameplay Controls
-
 | Key(s)            | Action                                    |
-| ----------------- | ----------------------------------------- |
-| `y`, `7`          | Move up-left                              |
-| `k`, `8`          | Move up                                   |
-| `u`, `9`          | Move up-right                             |
-| `l`, `6`          | Move right                                |
-| `n`, `3`          | Move down-right                           |
+| --------
 | `j`, `2`          | Move down                                 |
 | `b`, `1`          | Move down-left                            |
 | `h`, `4`          | Move left                                 |
