@@ -28,12 +28,7 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 | `.`, `5`, `space` | Rest for a turn                           |
 | `<`               | Go up stairs (if on up staircase)         |
 | `>`               | Go down stairs (if on down staircase)     |
-| `m`               | Display monster list                      |
-| `↑ / ↓`           | Scroll monster list                       |
-| `Esc`             | Exit monster list                         |
-| `Q`               | Quit game                                 |
-| `f`               | Toggle fog of war (developer command)     |
-| `g`               | Enter teleport targeting mode (developer) |
+| `m`               | 
 | `g` (again)       | Teleport to targeted location             |
 | `g r`             | Random teleport                           |
 
