@@ -26,11 +26,7 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 | `b`, `1`          | Move down-left                            |
 | `h`, `4`          | Move left                                 |
 | `.`, `5`, `space` | Rest for a turn                           |
-| `<`               | Go up stairs (if on up staircase)         |
-| `>`               | Go down stairs (if on down staircase)     |
-| `m`               | 
-| `g` (again)       | Teleport to targeted location             |
-| `g r`             | Random teleport                           |
+| `<|
 
 ---
 
