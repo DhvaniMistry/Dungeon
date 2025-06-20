@@ -21,7 +21,6 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 
 | Key(s)            | Action                                    |
 | ----------------- | ----------------------------------------- |
-| `k`, `8`          | Move up                                   |
 | `u`, `9`          | Move up-right                             |
 | `l`, `6`          | Move right                                |
 | `n`, `3`          | Move down-right                           |
