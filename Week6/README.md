@@ -14,7 +14,6 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 * ✅ Inheritance: `PC` and `NPC` inherit from `Character`
 * ✅ **Fog of war**: Player can only see terrain within a light radius of 3
 * ✅ **Remembered terrain**: Seen terrain is cached even after leaving view
-* ✅ **Teleportation (g)** and **fog toggle (f)** debug commands
 * ✅ Rendering system updated to display only visible monsters and known terrain
 
 ---
