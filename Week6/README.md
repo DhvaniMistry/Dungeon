@@ -11,9 +11,12 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 ### Major Updates
 
 * ✅ Full conversion from C to **C++**
+* ✅ Structs refactored into **classes**
 * ✅ Inheritance: `PC` and `NPC` inherit from `Character`
 * ✅ **Fog of war**: Player can only see terrain within a light radius of 3
 * ✅ **Remembered terrain**: Seen terrain is cached even after leaving view
+* ✅ **Teleportation (g)** and **fog toggle (f)** debug commands
+* ✅ Rendering system updated to display only visible monsters and known terrain
 
 ---
 
@@ -21,9 +24,12 @@ This project transitions the dungeon game from C to **C++**, introducing **objec
 
 | Key(s)            | Action                                    |
 | ----------------- | ----------------------------------------- |
+| `y`, `7`          | Move up-left                              |
+| `k`, `8`          | Move up                                   |
 | `u`, `9`          | Move up-right                             |
 | `l`, `6`          | Move right                                |
 | `n`, `3`          | Move down-right                           |
+| `j`, `2`          | Move down                                 |
 | `b`, `1`          | Move down-left                            |
 | `h`, `4`          | Move left                                 |
 | `.`, `5`, `space` | Rest for a turn                           |
