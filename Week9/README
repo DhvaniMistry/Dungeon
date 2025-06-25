@@ -1,5 +1,0 @@
-3270: Assignment 9
-
-Completed.
-
-Found a bug, sometimes the npc_rand_pos would enter into an infinite loop causing a freezze. Took over 97% of CPU power. Now fixed, shouldn't cause anu freeze.
