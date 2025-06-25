@@ -1,0 +1,12 @@
+# Changelog
+
+## 2025-04-07
+- Started development of `monsterParser.cpp`.
+- Implemented parser for monster definitions in dungeon game.
+- Support for the following fields: name, description, symbol, color, speed, abilities, HP, damage, rarity.
+
+
+## 2025-04-07
+- Read Professor's solution for Assignment 6 and Assignment 7 requirements
+- Realised I don't have to work on actual project
+- Made a list of fields to be extracted.
